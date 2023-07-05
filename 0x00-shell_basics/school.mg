@@ -1,1 +1,2 @@
-string  SCHOOL    School data file
+0 string ARBAMINCH arbaminch data
+!:debub aebaminch
