@@ -1,2 +1,3 @@
-0 string ARBAMINCH arbaminch data
-!:debub aebaminch
+0 string SCHOOL School data
+!:mime School
+
